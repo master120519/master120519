@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jose Principal</h1>
 
 <p align="center">
-	<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+	<a target="_blank" href="https://www.stefanosst.gr"><img src="portada.png"/></a>
 	<a href="https://github.com/joseprincipal">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Python+|+HTML+|+CSS+|+SQL+Server+|+PostgreSQL;Apasionado+por+la+automatización+y+los+sistemas+web;Siempre+aprendiendo+y+mejorando&center=true&width=500&height=45">
 	</a>
