@@ -42,9 +42,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/joseprincipal/joseprincipal/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+
 
 <p align="center">
   Última actualización: 28/06/2025
