@@ -32,10 +32,10 @@
 ## 📫 ¡Hablemos!
 
 <p align="center">
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:josemprincipal12@gmail.com">
     <img align="center" alt="Email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
+  <a href="www.linkedin.com/in/jose-principal-995331261" target="_blank">
     <img align="center" alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
 </p>
