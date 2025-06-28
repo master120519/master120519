@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">ChatBoot Autonomo</h3>
 <div align="center">
-<a href="" target="_blank"><img src="proyecto1.jpg" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="1.jpg" width="400" alt="Curso básico android"></a>
 <p>
 </a>
 </a>
@@ -48,7 +48,7 @@
                <br>
 <h3 align="center">Central Telefonica Issabel</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="proyecto2.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="issabel.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 </a>
@@ -66,7 +66,7 @@ Ideal para empresas que desean una solución de comunicaciones flexible, escalab
 <td width="50%">
 <h3 align="center">Sistema Medico Integral</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="transformacion-digital-salud-opt-1.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
 </a>
 </p>
