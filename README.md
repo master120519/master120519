@@ -32,37 +32,32 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">ChatBoot Autonomo</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="proyecto1.jpg" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="proyecto1.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>ChatBot Autónomo diseñado para operar sin supervisión constante. Automatiza conversaciones, responde preguntas frecuentes, gestiona solicitudes, y aprende con el tiempo para mejorar la experiencia del usuario. Ideal para atención al cliente, soporte técnico y sistemas internos.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Central Telefonica Issabel</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="proyecto2.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>📞 Central Telefónica con Issabel PBX
+Sistema completo de telefonía IP basado en Asterisk y administrado desde una interfaz web amigable. Issabel permite gestionar extensiones, llamadas internas y externas, IVRs, buzón de voz, grabación de llamadas, reportes, colas de atención y mucho más.
+Ideal para empresas que desean una solución de comunicaciones flexible, escalable y de bajo costo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
