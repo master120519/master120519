@@ -48,7 +48,7 @@
                <br>
 <h3 align="center">Central Telefonica Issabel</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="issabel.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="issabel.jpeg" width="400" alt=""></a>
 <br>
 <p>
 </a>
@@ -66,7 +66,7 @@ Ideal para empresas que desean una solución de comunicaciones flexible, escalab
 <td width="50%">
 <h3 align="center">Sistema Medico Integral</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="transformacion-digital-salud-opt-1.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="" target="_blank"><img src="transformacion-digital-salud-opt-1.jpg" width="400" ></a>
 <p>
 </a>
 </p>
@@ -85,10 +85,10 @@ Su objetivo principal es mejorar la atención al paciente y automatizar los proc
 
 <p align="center">
   <a href="mailto:josemprincipal12@gmail.com">
-    <img align="center" alt="Email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Email" width="26px"  />
   </a> &nbsp;&nbsp;
   <a href="www.linkedin.com/in/jose-principal-995331261" target="_blank">
-    <img align="center" alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="LinkedIn" width="24px" />
   </a>
 </p>
 
